@@ -4,4 +4,4 @@ Seamlessly integrate AI-powered email drafting into Gmail! 🚀 No need to switc
 
 Here’s a preview of my site:
 
-![Project Demo](demo.gif)
+![Project Demo](videoplayback.gif)
